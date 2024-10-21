@@ -1,6 +1,6 @@
-# Project Name
+# Odin signup form
 
-> One paragraph statement about the project.
+> This is a project about some semantic html elements and css elements.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,14 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html5 elements,
+  - `fieldset`, `img`, `div`, `section`, `button`
+- Css,
+  - `input:invalid`, `height`, `flex-direction`, `justify-content`
+  - `display`, `font-weight`, `width`, `border` 
+- Linters
+  - [prettier](https://prettier.io/)
+  - [stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -77,9 +82,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
@@ -93,8 +97,13 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
+- Odin project logo 
+  - https://cdn.statically.io/gh/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/odin-lined.png
+- Background image
+  - https://unsplash.com/photos/25xggax4bSA
+- project link
+  - https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form
+
 - etc
 
 ## 📝 License
