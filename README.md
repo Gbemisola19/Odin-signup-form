@@ -1,4 +1,4 @@
-# Odin signup form
+# Odin Signup Form
 
 > This is a project about some semantic html elements and css elements.
 
@@ -12,7 +12,7 @@ Additional description of the project and its features.
   - `fieldset`, `img`, `div`, `section`, `button`
 - Css,
   - `input:invalid`, `height`, `flex-direction`, `justify-content`
-  - `display`, `font-weight`, `width`, `border` 
+  - `display`, `font-weight`, `width`, `border`
 - Linters
   - [prettier](https://prettier.io/)
   - [stylelint](https://stylelint.io/)
@@ -97,11 +97,12 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Odin project logo 
+- Odin project logo
   - https://cdn.statically.io/gh/TheOdinProject/curriculum/5f37d43908ef92499e95a9b90fc3cc291a95014c/html_css/project-sign-up-form/odin-lined.png
 - Background image
   - https://unsplash.com/photos/25xggax4bSA
 - project link
+
   - https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form
 
 - etc
