@@ -76,7 +76,7 @@ main {
   font-size: 1.25rem;
   font-weight: 600;
   width: 90%;
-  padding-top: 22%;
+  padding-top: 15%;
 }
 
 form {
@@ -105,14 +105,14 @@ fieldset {
   gap: 3rem;
 }
 
-.details-conatiner {
+.details-container {
   display: flex;
   flex-direction: column;
   text-transform: uppercase;
   width: 33%;
 }
 
-.details-conatiner label {
+.details-container label {
   font-size: 0.7rem;
   font-weight: 500;
 }
